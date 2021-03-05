@@ -14,7 +14,7 @@ pip install library_name
 ```
 2.Clone the repo using -
 ```bash
-git clone https://github.com/JokaDPiero/PDF-Encryption-script.git
+git clone https://github.com/JokaDPiero/Keylogger-script.git
 ```
 3.Open the script and change the directory of the log file.
 4.Run the py script and start typing.You'll see your key pressed logs in the log file.
